@@ -1,0 +1,7 @@
+D:\Ruit\Documents\VisualStudio Projects\AS-UnityHelper\AS-UnityHelper\bin\Release\AS-UnityHelper.dll
+D:\Ruit\Documents\VisualStudio Projects\AS-UnityHelper\AS-UnityHelper\bin\Release\AS-UnityHelper.pdb
+D:\Ruit\Documents\VisualStudio Projects\AS-UnityHelper\AS-UnityHelper\bin\Release\UnityEngine.dll
+D:\Ruit\Documents\VisualStudio Projects\AS-UnityHelper\AS-UnityHelper\obj\Release\AS-UnityHelper.csproj.CoreCompileInputs.cache
+D:\Ruit\Documents\VisualStudio Projects\AS-UnityHelper\AS-UnityHelper\obj\Release\AS-UnityHelper.csproj.CopyComplete
+D:\Ruit\Documents\VisualStudio Projects\AS-UnityHelper\AS-UnityHelper\obj\Release\AS-UnityHelper.dll
+D:\Ruit\Documents\VisualStudio Projects\AS-UnityHelper\AS-UnityHelper\obj\Release\AS-UnityHelper.pdb

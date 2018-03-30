@@ -1,0 +1,9 @@
+D:\Ruit\Documents\VisualStudio Projects\CoalitionHack\CoalitionHack\bin\Release\CoalitionHack.dll
+D:\Ruit\Documents\VisualStudio Projects\CoalitionHack\CoalitionHack\bin\Release\CoalitionHack.pdb
+D:\Ruit\Documents\VisualStudio Projects\CoalitionHack\CoalitionHack\bin\Release\AS-UnityHelper.dll
+D:\Ruit\Documents\VisualStudio Projects\CoalitionHack\CoalitionHack\bin\Release\Assembly-CSharp.dll
+D:\Ruit\Documents\VisualStudio Projects\CoalitionHack\CoalitionHack\bin\Release\UnityEngine.dll
+D:\Ruit\Documents\VisualStudio Projects\CoalitionHack\CoalitionHack\obj\Release\CoalitionHack.csproj.CoreCompileInputs.cache
+D:\Ruit\Documents\VisualStudio Projects\CoalitionHack\CoalitionHack\obj\Release\CoalitionHack.csproj.CopyComplete
+D:\Ruit\Documents\VisualStudio Projects\CoalitionHack\CoalitionHack\obj\Release\CoalitionHack.dll
+D:\Ruit\Documents\VisualStudio Projects\CoalitionHack\CoalitionHack\obj\Release\CoalitionHack.pdb
